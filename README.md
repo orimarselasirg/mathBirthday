@@ -32,7 +32,7 @@ node-v
  - run the following code "npm install"
 -  wait until all the code the browser open a tab with the webapp
 
-or if you prefer you can test the webapp using the deployed link
+or if you prefer you can test the webapp using the deployed link: https://6393fc8ce5a7ff3e1bab4ddc--boisterous-donut-0f45f4.netlify.app/
 
 ## time to navigate
 
