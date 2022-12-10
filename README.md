@@ -23,20 +23,31 @@ and
 node-v
 ```
 
+after that, you must clone this repository into your machine
+
 ## Installing
 
  it's time to install
 
  - Open a terminal
- - Go into the folder root
- - run the following code "npm install"
--  wait until all the code the browser open a tab with the webapp
+ - Go into the folder root where you clone this repository
+ - run the following code "npm install" and wait until the installation process ends
+ 
+## Running the app
+
+- In the same terminal after the installation ends, run the following code
+
+```
+npm start
+```
+- wait until the app starts and automatically open a tab in your browser with the app running 
 
 or if you prefer you can test the webapp using the deployed link: https://6393fc8ce5a7ff3e1bab4ddc--boisterous-donut-0f45f4.netlify.app/
 
 ## time to navigate
 
 you can chose a date, and the app will calculate your next birth math date
+
 ## Used Tecnology
 
 these are the tecnology used to develop this webapp
