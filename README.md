@@ -1,10 +1,7 @@
 
 # Math Birthday
 
-Proyecto de una SPA donde se define un algoritmo simple para calculo de una fecha de cumpleaños
-
-
-
+SPA project where a simple algorithm is defined to calculate a birthday date
 
 ## First steps
 
