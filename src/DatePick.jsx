@@ -40,6 +40,7 @@ function DatePick(props) {
     const date = 10 ** n;
     return date;
   };
+  console.log(birth)
 
   const nextBirthday = (date, days) => {
     var nextBirthInDays = new Date(date).getDate() + days;
